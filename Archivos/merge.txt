@@ -1,1 +1,3 @@
-Podemos hacer un commit porque la carpeta ya no esta vacia
+Samuel Castaño Mira
+18 años
+Aprender POO tanto en Java como en Python
