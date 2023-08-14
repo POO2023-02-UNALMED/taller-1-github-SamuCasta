@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 Samuel Castaño Mira
 18 años
 Aprender POO tanto en Java como en Python
+=======
+Podemos hacer un commit porque la carpeta ya no esta vacia y ahpra el sistema sí la detecta
+>>>>>>> 1d3762b967a29e1cca513effe01766d0019f774f
+
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
+R/. Puede generarse conflictos de fusión, dos cambios en el mismo lugar del archivo chocan, y es un problema repararlo porque toca hacerlo manualmente. El sistema no sabe con cual quedarse o como combinarlas.
