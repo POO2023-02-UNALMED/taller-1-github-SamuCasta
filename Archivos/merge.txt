@@ -1,1 +1,1 @@
-Podemos hacer un commit porque la carpeta ya no esta vacia
+Podemos hacer un commit porque la carpeta ya no esta vacia y ahpra el sistema sí la detecta
